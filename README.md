@@ -8,3 +8,5 @@ Th calculator has the addition, subtraction, multiplaction and division operatio
 In addition it has the all clear and delete functionalities.
 
 The main aim of the project is to familiarise with the three.
+link to the website is:
+    https://masywairimu.github.io/SIMPLE-CALCULATOR/
